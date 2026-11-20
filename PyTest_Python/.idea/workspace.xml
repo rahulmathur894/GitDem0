@@ -25,23 +25,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001265834486737" />
-      <entry key="S2" value="1.592860825805034" />
-      <entry key="S5" value="4.3625423612209495" />
-      <entry key="S10" value="7.058090548940733" />
-      <entry key="S30" value="10.007599660961185" />
-      <entry key="S60" value="10.963025322856367" />
-      <entry key="M2" value="11.61500544856324" />
-      <entry key="M5" value="12.870541056040421" />
-      <entry key="M10" value="14.470214122724816" />
-      <entry key="M15" value="15.473294344899761" />
-      <entry key="M30" value="16.911421933645386" />
-      <entry key="H1" value="17.857164005027713" />
-      <entry key="H2" value="18.401377483604374" />
-      <entry key="H4" value="18.69353659435349" />
-      <entry key="D1" value="18.947898104074618" />
-      <entry key="W1" value="18.992531359386632" />
+      <entry key="MS100" value="1.000062471753701" />
+      <entry key="MS500" value="1.196888516259396" />
+      <entry key="S2" value="2.6964321511353244" />
+      <entry key="S5" value="5.361016230108882" />
+      <entry key="S10" value="8.854341000695632" />
+      <entry key="S30" value="14.281971493883148" />
+      <entry key="S60" value="16.419997844555986" />
+      <entry key="M2" value="17.78497064624091" />
+      <entry key="M5" value="19.503625489766907" />
+      <entry key="M10" value="21.266874085986714" />
+      <entry key="M15" value="22.32957896128129" />
+      <entry key="M30" value="23.83375298342931" />
+      <entry key="H1" value="24.816424519638723" />
+      <entry key="H2" value="25.380460264747366" />
+      <entry key="H4" value="25.68293110167572" />
+      <entry key="D1" value="25.946109214388557" />
+      <entry key="W1" value="25.992275269665598" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -63,23 +63,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2214928191083401E-21" />
-      <entry key="MS500" value="1.9091920244928613E-4" />
-      <entry key="S2" value="0.681284095867655" />
-      <entry key="S5" value="3.740497527165395" />
-      <entry key="S10" value="6.672466559909442" />
-      <entry key="S30" value="9.857565392678417" />
-      <entry key="S60" value="10.884924297726938" />
-      <entry key="M2" value="11.575054809949183" />
-      <entry key="M5" value="12.854086080345313" />
-      <entry key="M10" value="14.461723650861398" />
-      <entry key="M15" value="15.467526031668443" />
-      <entry key="M30" value="16.90846069387588" />
-      <entry key="H1" value="17.855658083875593" />
-      <entry key="H2" value="18.400617247090405" />
-      <entry key="H4" value="18.69315452340535" />
-      <entry key="D1" value="18.94783414226241" />
-      <entry key="W1" value="18.992522214883035" />
+      <entry key="MS100" value="0.8950805984838845" />
+      <entry key="MS500" value="1.1699746204527364" />
+      <entry key="S2" value="2.5697285628913082" />
+      <entry key="S5" value="5.030055308342243" />
+      <entry key="S10" value="8.509975124009356" />
+      <entry key="S30" value="14.089044727644184" />
+      <entry key="S60" value="16.30972996005553" />
+      <entry key="M2" value="17.725898535545653" />
+      <entry key="M5" value="19.478745383082117" />
+      <entry key="M10" value="21.254037141371732" />
+      <entry key="M15" value="22.320882489291034" />
+      <entry key="M30" value="23.829312016862936" />
+      <entry key="H1" value="24.81417470993564" />
+      <entry key="H2" value="25.379327058438772" />
+      <entry key="H4" value="25.682362286638707" />
+      <entry key="D1" value="25.946014092302384" />
+      <entry key="W1" value="25.99226167280277" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -287,6 +287,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

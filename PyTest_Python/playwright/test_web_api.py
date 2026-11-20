@@ -36,3 +36,5 @@ def test_e2e_web_api(playwright:Playwright):
 def test_Github_print_test():
     print("Codeline 1")
     print("Codeline 2")
+
+    print("Codeline 3")
