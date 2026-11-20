@@ -38,6 +38,8 @@ def test_Github_print_test():
     print("Codeline 2")
 
     print("Codeline 3")
+    print("Codeline 4")
+    print("Codeline 5")
 
 def test_Github_branchCreate_test():
     print("Codeline 1")
