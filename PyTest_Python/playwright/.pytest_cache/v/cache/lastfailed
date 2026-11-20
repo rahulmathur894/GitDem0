@@ -1,0 +1,8 @@
+{
+  "test_exception_python.py": true,
+  "test_UIValidations.py::test_UIValidationDynamicScript[chromium]": true,
+  "test_captcha.py::test_captcha_govtSite[chromium]": true,
+  "test_captcha.py::test_GooglereCaptcha[chromium]": true,
+  "test_captcha.py::test_captcha_ddddocr[chromium]": true,
+  "test_captcha.py::test_captcha_betterCode_govtSite[chromium]": true
+}

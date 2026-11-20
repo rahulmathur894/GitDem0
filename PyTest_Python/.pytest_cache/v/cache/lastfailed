@@ -1,0 +1,5 @@
+{
+  "playwright/test_web_api.py::test_e2e_web_api[chromium]": true,
+  "playwright/test_Network2.py::test_Network_2[chromium]": true,
+  "playwright/test_Network2.py::test_session_storage[chromium]": true
+}

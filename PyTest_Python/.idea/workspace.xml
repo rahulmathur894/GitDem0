@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6fec81-2ac0-4a37-b56b-aac5e0feb343" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K9B7Qoz6Gw1euHzI4vxD3dho2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for playwright.test_Network1.test_Network_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for playwright.test_framework_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for playwright.test_playwrightBasics.test_playwrightBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for playwright.test_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_UIValidations.test_childWindowHandle.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_framework_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_playwrightBasics.test_playwrightBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_pytest_bddTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_async_functionality.test_async_functionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_captcha.test_captcha.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_captcha.test_captcha_ddddocr.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_captcha.test_catcha.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_captcha.test_reCaptcha.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_moreUIValidations.test_moreUIValidations.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_UIValidations.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_async_functionality.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_exception_python.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_framework_web_api.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest tests for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
+    &quot;Python.async_functionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playwrightBasics.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/10/PycharmProjects/PyTest_Python&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyTest_Python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyTest_Python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10\PycharmProjects\PyTest_Python\PyTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite">
+    <configuration name="pytest for test_captcha.test_captcha" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_captcha.test_captcha&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_captcha.test_captcha_betterCode_govtSite" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_captcha.test_captcha_betterCode_govtSite&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_captcha.test_captcha_ddddocr" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_captcha.test_captcha_ddddocr&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_captcha.test_reCaptcha" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_captcha.test_reCaptcha&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_moreUIValidations.test_moreUIValidations" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_moreUIValidations.test_moreUIValidations&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_captcha.test_captcha" />
+      <item itemvalue="Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite" />
+      <item itemvalue="Python tests.pytest for test_captcha.test_captcha_ddddocr" />
+      <item itemvalue="Python tests.pytest for test_captcha.test_reCaptcha" />
+      <item itemvalue="Python tests.pytest for test_moreUIValidations.test_moreUIValidations" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_moreUIValidations.test_moreUIValidations" />
+        <item itemvalue="Python tests.pytest for test_captcha.test_reCaptcha" />
+        <item itemvalue="Python tests.pytest for test_captcha.test_captcha_ddddocr" />
+        <item itemvalue="Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite" />
+        <item itemvalue="Python tests.pytest for test_captcha.test_captcha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6fec81-2ac0-4a37-b56b-aac5e0feb343" name="Changes" comment="" />
+      <created>1790959737370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790959737370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
