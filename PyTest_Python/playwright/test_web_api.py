@@ -42,5 +42,9 @@ def test_Github_print_test():
     print("Codeline 5")
     print("Codeline 6")
 
+    print("Codeline 7")
+    print("Codeline 8")
+    print("Codeline 9")
+
 def test_Github_branchCreate_test():
     print("Codeline 1")
