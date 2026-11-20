@@ -31,3 +31,8 @@ def test_e2e_web_api(playwright:Playwright):
 
     context.close()
     browser.close()
+
+
+def test_Github_print_test():
+    print("Codeline 1")
+    print("Codeline 2")

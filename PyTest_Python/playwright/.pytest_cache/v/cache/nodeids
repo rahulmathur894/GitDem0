@@ -22,5 +22,6 @@
   "test_playwrightBasics.py::test_playwrightBasics",
   "test_playwrightBasics.py::test_playwrightShortcut[chromium]",
   "test_pytest_bddTest.py::test_verify_order_success_message_shown_in_details_page[rahulmathur@gmail.com-Rahul@123]",
+  "test_web_api.py::test_Github_print_test",
   "test_web_api.py::test_e2e_web_api"
 ]
