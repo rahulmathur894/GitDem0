@@ -25,23 +25,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000062471753701" />
-      <entry key="MS500" value="1.196888516259396" />
-      <entry key="S2" value="2.6964321511353244" />
-      <entry key="S5" value="5.361016230108882" />
-      <entry key="S10" value="8.854341000695632" />
-      <entry key="S30" value="14.281971493883148" />
-      <entry key="S60" value="16.419997844555986" />
-      <entry key="M2" value="17.78497064624091" />
-      <entry key="M5" value="19.503625489766907" />
-      <entry key="M10" value="21.266874085986714" />
-      <entry key="M15" value="22.32957896128129" />
-      <entry key="M30" value="23.83375298342931" />
-      <entry key="H1" value="24.816424519638723" />
-      <entry key="H2" value="25.380460264747366" />
-      <entry key="H4" value="25.68293110167572" />
-      <entry key="D1" value="25.946109214388557" />
-      <entry key="W1" value="25.992275269665598" />
+      <entry key="MS100" value="1.000017895446287" />
+      <entry key="MS500" value="1.1986023403731276" />
+      <entry key="S2" value="2.9843179426705895" />
+      <entry key="S5" value="5.93703133692843" />
+      <entry key="S10" value="9.6720559423624" />
+      <entry key="S30" value="15.641184690195175" />
+      <entry key="S60" value="18.050427918031644" />
+      <entry key="M2" value="19.584513832653137" />
+      <entry key="M5" value="21.415766776505855" />
+      <entry key="M10" value="23.21908840570163" />
+      <entry key="M15" value="24.296179378359973" />
+      <entry key="M30" value="25.81596327748842" />
+      <entry key="H1" value="26.807173944892856" />
+      <entry key="H2" value="27.37573292224314" />
+      <entry key="H4" value="27.680540070281094" />
+      <entry key="D1" value="27.945706741835636" />
+      <entry key="W1" value="27.992217674171158" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -63,23 +63,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8950805984838845" />
-      <entry key="MS500" value="1.1699746204527364" />
-      <entry key="S2" value="2.5697285628913082" />
-      <entry key="S5" value="5.030055308342243" />
-      <entry key="S10" value="8.509975124009356" />
-      <entry key="S30" value="14.089044727644184" />
-      <entry key="S60" value="16.30972996005553" />
-      <entry key="M2" value="17.725898535545653" />
-      <entry key="M5" value="19.478745383082117" />
-      <entry key="M10" value="21.254037141371732" />
-      <entry key="M15" value="22.320882489291034" />
-      <entry key="M30" value="23.829312016862936" />
-      <entry key="H1" value="24.81417470993564" />
-      <entry key="H2" value="25.379327058438772" />
-      <entry key="H4" value="25.682362286638707" />
-      <entry key="D1" value="25.946014092302384" />
-      <entry key="W1" value="25.99226167280277" />
+      <entry key="MS100" value="0.8888470699703731" />
+      <entry key="MS500" value="1.138665017001653" />
+      <entry key="S2" value="2.859951475398704" />
+      <entry key="S5" value="5.649388564672263" />
+      <entry key="S10" value="9.351516235384295" />
+      <entry key="S30" value="15.4499276126926" />
+      <entry key="S60" value="17.939208833650042" />
+      <entry key="M2" value="19.524406214979003" />
+      <entry key="M5" value="21.390321928568373" />
+      <entry key="M10" value="23.205942497022363" />
+      <entry key="M15" value="24.287270830511098" />
+      <entry key="M30" value="25.811413137994933" />
+      <entry key="H1" value="26.804868741704553" />
+      <entry key="H2" value="27.374571813593324" />
+      <entry key="H4" value="27.679957252118175" />
+      <entry key="D1" value="27.94560927862797" />
+      <entry key="W1" value="27.992203742683735" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,57 +91,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for playwright.test_Network1.test_Network_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for playwright.test_framework_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for playwright.test_playwrightBasics.test_playwrightBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for playwright.test_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_UIValidations.test_childWindowHandle.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_framework_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_playwrightBasics.test_playwrightBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_pytest_bddTest.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for PyTest.test_PyTestValidation.test_initialCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for PyTest.test_PyTestValidation.test_secondCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_async_functionality.test_async_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_captcha.test_captcha.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_captcha.test_captcha_ddddocr.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_captcha.test_catcha.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_captcha.test_reCaptcha.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_moreUIValidations.test_moreUIValidations.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_web_api.test_Github_print_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_web_api.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_UIValidations.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_async_functionality.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_exception_python.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_framework_web_api.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_web_api.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest tests for test_UIValidations.test_UIValidationDynamicScript.executor&quot;: &quot;Run&quot;,
-    &quot;Python.async_functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exception_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.playwrightBasics.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/10/GitDem0/PyTest_Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.interpreter.PyAllInterpretersConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for playwright.test_Network1.test_Network_1.executor": "Run",
+    "Python tests.Python tests for playwright.test_framework_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for playwright.test_playwrightBasics.test_playwrightBasics.executor": "Run",
+    "Python tests.Python tests for playwright.test_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python tests.Python tests for test_UIValidations.test_childWindowHandle.executor": "Run",
+    "Python tests.Python tests for test_framework_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_playwrightBasics.executor": "Run",
+    "Python tests.Python tests in test_pytest_bddTest.py.executor": "Run",
+    "Python tests.pytest for PyTest.test_PyTestValidation.test_initialCheck.executor": "Run",
+    "Python tests.pytest for PyTest.test_PyTestValidation.test_secondCheck.executor": "Run",
+    "Python tests.pytest for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python tests.pytest for test_async_functionality.test_async_functionality.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha_ddddocr.executor": "Run",
+    "Python tests.pytest for test_captcha.test_catcha.executor": "Run",
+    "Python tests.pytest for test_captcha.test_reCaptcha.executor": "Run",
+    "Python tests.pytest for test_moreUIValidations.test_moreUIValidations.executor": "Run",
+    "Python tests.pytest for test_web_api.test_Github_print_test.executor": "Run",
+    "Python tests.pytest for test_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.pytest in test_UIValidations.py.executor": "Run",
+    "Python tests.pytest in test_async_functionality.py.executor": "Run",
+    "Python tests.pytest in test_exception_python.py.executor": "Run",
+    "Python tests.pytest in test_framework_web_api.py.executor": "Run",
+    "Python tests.pytest in test_web_api.py.executor": "Run",
+    "Python tests.pytest tests for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python.async_functionality.executor": "Run",
+    "Python.exception_python.executor": "Run",
+    "Python.playwrightBasics.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "C:/Users/10/GitDem0/PyTest_Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.interpreter.PyAllInterpretersConfigurable"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="PyTest_Python" is-module-sdk="true">
