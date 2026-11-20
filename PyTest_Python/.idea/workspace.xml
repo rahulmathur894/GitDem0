@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6fec81-2ac0-4a37-b56b-aac5e0feb343" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright/test_web_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/playwright/test_web_api.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000003425670694" />
+      <entry key="S5" value="1.0038542236817458" />
+      <entry key="S10" value="1.0874987315303635" />
+      <entry key="S30" value="1.7041889781615138" />
+      <entry key="S60" value="2.186727072292503" />
+      <entry key="M2" value="2.5840932893832864" />
+      <entry key="M5" value="4.662530466635873" />
+      <entry key="M10" value="9.74261150867824" />
+      <entry key="M15" value="13.692836086403874" />
+      <entry key="M30" value="20.146585782602845" />
+      <entry key="H1" value="24.851839107810765" />
+      <entry key="H2" value="27.717459255219744" />
+      <entry key="H4" value="29.302565256601625" />
+      <entry key="D1" value="30.708921213730466" />
+      <entry key="W1" value="30.958212097951268" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767085289622274" />
+      <entry key="S2" value="0.9941259111123648" />
+      <entry key="S5" value="1.001487045431737" />
+      <entry key="S10" value="1.0861670454987102" />
+      <entry key="S30" value="1.7033765282423503" />
+      <entry key="S60" value="2.1861751093549575" />
+      <entry key="M2" value="2.5836304188786676" />
+      <entry key="M5" value="4.660172112974715" />
+      <entry key="M10" value="9.738659819591645" />
+      <entry key="M15" value="13.688838554989808" />
+      <entry key="M30" value="20.1435313419293" />
+      <entry key="H1" value="24.849945335871745" />
+      <entry key="H2" value="27.716403904991488" />
+      <entry key="H4" value="29.302008044555787" />
+      <entry key="D1" value="30.708824020402687" />
+      <entry key="W1" value="30.958198104260394" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K9B7Qoz6Gw1euHzI4vxD3dho2n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for playwright.test_Network1.test_Network_1.executor": "Run",
+    "Python tests.Python tests for playwright.test_framework_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for playwright.test_playwrightBasics.test_playwrightBasics.executor": "Run",
+    "Python tests.Python tests for playwright.test_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python tests.Python tests for test_UIValidations.test_childWindowHandle.executor": "Run",
+    "Python tests.Python tests for test_framework_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.Python tests for test_playwrightBasics.test_playwrightBasics.executor": "Run",
+    "Python tests.Python tests in test_pytest_bddTest.py.executor": "Run",
+    "Python tests.pytest for PyTest.test_PyTestValidation.test_initialCheck.executor": "Run",
+    "Python tests.pytest for PyTest.test_PyTestValidation.test_secondCheck.executor": "Run",
+    "Python tests.pytest for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python tests.pytest for test_async_functionality.test_async_functionality.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha_betterCode_govtSite.executor": "Run",
+    "Python tests.pytest for test_captcha.test_captcha_ddddocr.executor": "Run",
+    "Python tests.pytest for test_captcha.test_catcha.executor": "Run",
+    "Python tests.pytest for test_captcha.test_reCaptcha.executor": "Run",
+    "Python tests.pytest for test_moreUIValidations.test_moreUIValidations.executor": "Run",
+    "Python tests.pytest for test_web_api.test_Github_print_test.executor": "Run",
+    "Python tests.pytest for test_web_api.test_e2e_web_api.executor": "Run",
+    "Python tests.pytest in test_UIValidations.py.executor": "Run",
+    "Python tests.pytest in test_async_functionality.py.executor": "Run",
+    "Python tests.pytest in test_exception_python.py.executor": "Run",
+    "Python tests.pytest in test_framework_web_api.py.executor": "Run",
+    "Python tests.pytest in test_web_api.py.executor": "Run",
+    "Python tests.pytest tests for test_UIValidations.test_UIValidationDynamicScript.executor": "Run",
+    "Python.async_functionality.executor": "Run",
+    "Python.exception_python.executor": "Run",
+    "Python.playwrightBasics.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Merging master",
+    "last_opened_file_path": "C:/Users/10/GitDem0/PyTest_Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.interpreter.PyAllInterpretersConfigurable"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyTest_Python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyTest_Python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10\PycharmProjects\PyTest_Python\PyTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_web_api.test_e2e_web_api">
+    <configuration name="pytest for PyTest.test_PyTestValidation.test_initialCheck" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PyTest.test_PyTestValidation.test_initialCheck&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for PyTest.test_PyTestValidation.test_secondCheck" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PyTest.test_PyTestValidation.test_secondCheck&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_web_api.test_Github_print_test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_web_api.test_Github_print_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_web_api.test_e2e_web_api" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_web_api.test_e2e_web_api&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_web_api.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/playwright/test_web_api.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for PyTest.test_PyTestValidation.test_initialCheck" />
+      <item itemvalue="Python tests.pytest for PyTest.test_PyTestValidation.test_secondCheck" />
+      <item itemvalue="Python tests.pytest for test_web_api.test_Github_print_test" />
+      <item itemvalue="Python tests.pytest for test_web_api.test_e2e_web_api" />
+      <item itemvalue="Python tests.pytest in test_web_api.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_web_api.test_e2e_web_api" />
+        <item itemvalue="Python tests.pytest for PyTest.test_PyTestValidation.test_secondCheck" />
+        <item itemvalue="Python tests.pytest for PyTest.test_PyTestValidation.test_initialCheck" />
+        <item itemvalue="Python tests.pytest for test_web_api.test_Github_print_test" />
+        <item itemvalue="Python tests.pytest in test_web_api.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6fec81-2ac0-4a37-b56b-aac5e0feb343" name="Changes" comment="" />
+      <created>1790959737370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790959737370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
